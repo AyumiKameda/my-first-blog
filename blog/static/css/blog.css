@@ -1,7 +1,13 @@
 .page-header {
+<<<<<<< HEAD
     background-color: #6495ed;
     margin-top: 0;
     padding: 40px 40px 40px 40px;
+=======
+    background-color: #ff9400;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+>>>>>>> origin/master
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -13,6 +19,7 @@
 .content {
     margin-left: 40px;
 }
+<<<<<<< HEAD
 h1, h2, h3, h4 {
     font-family: 'Nico Moji';
 }
@@ -25,6 +32,13 @@ h1, h2, h3, h4 {
 
 
 
+=======
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
+
+>>>>>>> origin/master
 .date {
     color: #828282;
 }
